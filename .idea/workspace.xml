@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="64c468d5-dc00-43b8-8b9d-96bfb32394b1" name="Changes" comment="Homework 1">
-      <change afterPath="$PROJECT_DIR$/Module 1/Homework2.py" afterDir="false" />
+    <list default="true" id="64c468d5-dc00-43b8-8b9d-96bfb32394b1" name="Changes" comment="Homework 2">
+      <change afterPath="$PROJECT_DIR$/Module 1/Homework3.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,13 +21,33 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "AlexSokol"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/AlexSokol/urban-university.git",
+    "accountId": "a9f725a6-5fea-49cf-ac91-5caf06e1675a"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2k8WKlHgfNS3AB5OcqUlmjIAdPn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -35,12 +55,15 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Homework1.executor": "Run",
+    "Python.Homework2.executor": "Run",
+    "Python.Homework3.executor": "Run",
     "Python.main.executor": "Run",
     "Python.Практическое задание по уроку \"Базовые структуры данных\".executor": "Run",
     "Python.Практическое задание по уроку \"Строки и индексация строк\".executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
     "last_opened_file_path": "/Users/aleksandrsokolov/PycharmProjects/UrbanUnivercity/pythonProject1",
-    "settings.editor.selected.configurable": "ml.llm.LLMProjectConfigurable"
+    "settings.editor.selected.configurable": "ml.llm.LLMConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -99,12 +122,21 @@
       <option name="project" value="LOCAL" />
       <updated>1722670149135</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Homework 2">
+      <option name="closed" value="true" />
+      <created>1722674353836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1722674353838</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit" />
     <MESSAGE value="Homework 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Homework 1" />
+    <MESSAGE value="Homework 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Homework 2" />
   </component>
 </project>
